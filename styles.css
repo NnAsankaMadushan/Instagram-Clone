@@ -70,7 +70,7 @@ main {
 .post img {
     width: 100%;
     max-width: 300px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .caption {
@@ -89,7 +89,7 @@ footer {
     border: none;
     color: #746e6e;
     height: 50px;
-    /* backdrop-filter: blur(10px); */
+    backdrop-filter: blur(100px);
     
 }
 
