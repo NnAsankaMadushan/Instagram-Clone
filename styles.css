@@ -65,6 +65,7 @@ main {
 
 .post {
     margin: 10px;
+    margin-bottom: 30px;
 }
 
 .post img {
@@ -102,4 +103,13 @@ footer {
 .footer-copy {
     font-size: 0.8rem;
     color: #1b1a1a;
+}
+.reactions{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.reactions img{
+    height: 40px;
+    width: 40px;
 }
